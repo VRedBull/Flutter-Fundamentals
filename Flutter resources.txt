@@ -1,0 +1,20 @@
+Flutter resourses 
+
+Udacity Free Course - https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905
+
+Mobile apps made with flutter - https://itsallwidgets.com/
+
+Flutter widgets - https://flutter-widget.live/basics/introduction
+
+Icon generator - https://appicon.co/
+For UX design - canva, https://dribbble.com/shots/popular/mobile
+Icons & photos -
+	1. vecteezy
+	2. icons8/ouch
+
+For Icons - https://www.materialpalette.com/icons
+Fonts - https://fonts.google.com/
+Free Sounds - https://freesound.org/
+
+Tutorials
+https://fluttercrashcourse.com/
